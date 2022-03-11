@@ -1,0 +1,8 @@
+{
+  "name": "atlast-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/FesaGemini/atlast-api.git",
+  "author": "FesaGemini <fesademini@gmail.com>",
+  "license": "GPL"
+}
