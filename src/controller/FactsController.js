@@ -6,7 +6,7 @@ class FactsController {
     for (let item in array){
         lowTotal.push(array[item]);
     }
-    res.status(200).json({ facts: lowTotal[Math.floor(Math.random() * lowTotal.length)] })
+    res.status(200).json({ message: lowTotal[Math.floor(Math.random() * lowTotal.length)] })
   }
 }
 
