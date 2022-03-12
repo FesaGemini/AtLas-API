@@ -8,5 +8,5 @@ app.use(require("./router"))
 app.use(morgan('dev'))
 
 app.listen(3000, async () => {
-  console.log("[SERVER] AtLas-API V1 Ready")
+  console.log("[SERVER] AtLas-API V1 Ready \n[SERVER] Listening at port 3000")
 })
