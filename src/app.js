@@ -3,6 +3,8 @@ const app = express();
 app.use(express.json());
 app.set('json spaces', 2)
 
+require('./routes/index.js')(app)
+
 app.get('/', async(req, res) => {
   res.status(200).json({ message: "AtLas-API V1 Ready." })
 })
@@ -19,7 +21,7 @@ app.use((err, req, res, next) => {
      next();
 });
 
-require('./routes/index.js')(app)
+
 
 
 app.listen(3000, async () => {
