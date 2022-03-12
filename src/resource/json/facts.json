@@ -1,0 +1,562 @@
+[
+        {
+            "fact": "The first place in the world to allow women to vote was New Zealand",
+            "category": "Women rights"
+        },
+        {
+            "fact": "Mars is red because its surface contains alot of rust",
+            "category": "Universe"
+        },
+        {
+            "fact": "Earth is the only plane whose name in English is not derived from a Greco-Roman God",
+            "category": "Earth"
+        },
+        {
+            "fact": "The core of a neutron start is very dense. It is so dense that if you take a spoonful of matter from its core, it would weigh 5500 billion kg. ",
+            "category": "Universe"
+        },
+        {
+            "fact": "The greatest tide change on earth occurs in the Bay of Fundy. The difference between the low tide and thehigh tide can be as great as 54 ft. 6 in. (16.6 meters)",
+            "category": "Science"
+        },
+        {
+            "fact": "Newborn babies can only see clearly in front of their faces.",
+            "category": "Babies"
+        },
+        {
+            "fact": "The tentacles of the giant Arctic jellyfish can reach 36.6 meters (120 feet).",
+            "category": "Animals"
+        },
+        {
+            "fact": "Babies can remain calm twice as long when listening to a song as they do when listening to a speech.",
+            "category": "Babies"
+        },
+        {
+            "fact": "A WWI homing pigeon saved 194 men by delivering a message despie losing a leg, an eye and having been shot through the chest. ",
+            "category": "Animals"
+        },
+        {
+            "fact": "Jill Boughton, humbly known as The Trash Lady, founded Waste2Worth with the mission of revolutionizing the use of solid waste as a resource.",
+            "category": "Environment"
+        },
+        {
+            "fact": "Flies can react to an object they see and change direction in less than 100 milliseconds.",
+            "category": "Time"
+        },
+        {
+            "fact": "Sloths have the slowest metabolism of all mammals.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Liquid oxygen is blue in color.",
+            "category": "Science"
+        },
+        {
+            "fact": "Starfish do not have brains",
+            "category": "Science"
+        },
+        {
+            "fact": "In 1935, British engineer Robert Watson-Watt was working on a 'death ray', that would destroy the enemy aircraft using radio waves. His death ray instead evolved into RADAR",
+            "category": "World War II"
+        },
+        {
+            "fact": "Sphenopalatine ganglioneuraglia is the scientific term for brain freeze. ",
+            "category": "Science"
+        },
+        {
+            "fact": "At the center of our galaxy, The Milky Wy, lies a black hole called Sagittarius A* or Sgr A* for short.",
+            "category": "Universe"
+        },
+        {
+            "fact": "Knowledge is growing fast that 90% of what we will know in those fifty years will be discovered in those fifty years.",
+            "category": "Science"
+        },
+        {
+            "fact": "Smokers are four times most likely to report feeling unrested after a night's sleep than non-smokers.",
+            "category": "Health"
+        },
+        {
+            "fact": "Banana plants are the largest plants without a woody stem. They belong to the same family as lilies, orchids and palms.",
+            "category": "Nature"
+        },
+        {
+            "fact": "Japan celebrates Christmas with KFC.",
+            "category": "Random fact"
+        },
+        {
+            "fact": "Scientists estimate that there are 37.2 trillion cells in our body.",
+            "category": "Health"
+        },
+        {
+            "fact": "Exercises, like walking, can reduce the risk of breast cancer risk by 25%",
+            "category": "Health"
+        },
+        {
+            "fact": "Just 20-30 seconds worth of fuel remained when Apollo 11's lunar module landed on the moon.",
+            "category": "Science"
+        },
+        {
+            "fact": "Holding a remote car key nect to your head inreases it's range because the water in your brain acts as an amplifier.",
+            "category": "Cars"
+        },
+        {
+            "fact": "There is no Left Brain or Right Brain divide. It's a myth. They work together.",
+            "category": "Brain"
+        },
+        {
+            "fact": "Tarantula spiders can survive up to 2 years without food.",
+            "category": "Food"
+        },
+        {
+            "fact": "Cats and dogs can dream. They produce similar brain wave patterns that we do when we dream.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Trained dogs can sniff out prostate cancer with 98% accuracy.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Alcohol does not make you forget anything. When you blackout drunk, the brain temporarily loses the ability to create memories.",
+            "category": "Health"
+        },
+        {
+            "fact": "J. K. Rowling wrote her first book at the age of six - a story about a rabbit, called 'Rabbit'.",
+            "category": "Random fact"
+        },
+        {
+            "fact": "Hawaii is moving towards Japan 4 inches evry year.",
+            "category": "Science"
+        },
+        {
+            "fact": "Volkswagen Group owns Bentley, Bugatti, Lamborghini, Audi, Ducati, Porsche and others.",
+            "category": "Cars"
+        },
+        {
+            "fact": "Coffee is generally roasted between 204 - 218C. The longer the beans are roasted, the darker the roast.",
+            "category": "Food"
+        },
+        {
+            "fact": "Almost half of a child's brain energy goes to fuel his or her brain.",
+            "category": "Brain"
+        },
+        {
+            "fact": "In the Great Fire of London in 1666, which destroyed 13,200 houses, 87 churches, the cathedral of St. Paul and left 70,000 homeless, only 6 people were killed. ",
+            "category": "Random fact"
+        },
+        {
+            "fact": "It's scietificlly proven that even a small dose of power changes how a person's brain operates and diminishes empathy",
+            "category": "Brain"
+        },
+        {
+            "fact": "Argentine footballer Diego Maradona used his hand to score a goal in the 1986 World Cup. Maradona claimed tha it was the hand of God that scored the goal.",
+            "category": "Sports"
+        },
+        {
+            "fact": "The first metered taxi was introduced in 1907.",
+            "category": " History"
+        },
+        {
+            "fact": "Unless the food is mixed with saliva, you can't taste it",
+            "category": "Human Body"
+        },
+        {
+            "fact": "At 12:01 am in August 1, 1981, history was made when MTV, the first 24 hour music channel, launched onto television sets and literally changed the lives with the birth of the music video.",
+            "category": " History"
+        },
+        {
+            "fact": "The original lyrics of the 'Happy Birthday to you' song was 'Good Morning to you'.",
+            "category": "Music"
+        },
+        {
+            "fact": "The term 'Frito Feet' was coined to describe the scent.",
+            "category": "Animals"
+        },
+        {
+            "fact": "When baby polar bear cubs are born, they can not see or hear for the first month.",
+            "category": "Animals"
+        },
+        {
+            "fact": "66% of the world's chocolate comes from Africa.",
+            "category": "Continents"
+        },
+        {
+            "fact": "The largest number of babies born to a woman is 69.",
+            "category": "Babies"
+        },
+        {
+            "fact": "During WW1, the U.S government tried to rename Hamburgers as 'liberty sandwiches' to promote patriotism.",
+            "category": "WW1"
+        },
+        {
+            "fact": "The human brain is composed of about 100 billion neurons plus a trillion glial cells.",
+            "category": "Brain"
+        },
+        {
+            "fact": "One third of the Earth's surface is partially or totally desert.",
+            "category": "Earth"
+        },
+        {
+            "fact": "Cats are believed to be responsible for the extinction of several species of animals.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Hitler, while in prison, wrote a letter to a Mercedes dealership for a car loan.",
+            "category": "Cars"
+        },
+        {
+            "fact": "Violent homes have the same effect on children's brains as combat on soldiers. ",
+            "category": "Brain"
+        },
+        {
+            "fact": "Contrary to popular belief, there are no wild tigers in Africa. They are only in Asia.",
+            "category": "Nature"
+        },
+        {
+            "fact": "$30 of raw popcorn translates into $3,000 in sales at movie theaters.",
+            "category": "fOOD"
+        },
+        {
+            "fact": "Cats recognize the owners' voices but seem to be cool to care, according to a study.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The earliest diamonds were found in India in 4th Century BC.",
+            "category": " History"
+        },
+        {
+            "fact": "Millions of tonnes of the world's electronic waste end up in Africa where it is dumped in landfills.",
+            "category": "Nature"
+        },
+        {
+            "fact": "In 1941, more that 3 million cars were manufactured in the US. Only 139 more were made during the entire war.",
+            "category": "WW11"
+        },
+        {
+            "fact": "Ants can not chew their food, they move their jaws sideways, like scissors, to extract the juices from the food.",
+            "category": "Animals"
+        },
+        {
+            "fact": "During the invasion of Poland in WW2, 720 Poles defended their position against 40,000 Germans, stopping their advance for 3 days.",
+            "category": " History"
+        },
+        {
+            "fact": "230 million years is the time taken by our solar system to rotate around the Milky Way. Dinosaurs just began to roam on the Earth, the last time Earth was in it's current position.",
+            "category": "Universe"
+        },
+        {
+            "fact": "In South Korea, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The center of the Sun is approximately 15 million degrees Celsius.",
+            "category": "Nature"
+        },
+        {
+            "fact": "Coffee as a world commodity is second only to oil.",
+            "category": "Food"
+        },
+        {
+            "fact": "93% of the dogs and 75% of the cats that go missing in the U.S are returned safely, a study found.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Dolphins hear tones with a frequency up to 160kHz with the greatest sensitivity.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Four of every five soldiers killed in the wwar died on the Eastern Front.",
+            "category": "World War II"
+        },
+        {
+            "fact": "Bats make up 20 percent of all the mammal species found on Earth.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Small intestine length in infants and children is 60 cm.",
+            "category": "Babies"
+        },
+        {
+            "fact": "Oxygen, carbon, hydrogen and nitrogen make up 10% of the human body. ",
+            "category": "Human Body"
+        },
+        {
+            "fact": "Fanta originated in Germany as a result of difficulties importing Coca-Cola syrup into Nazi Germany during WW2",
+            "category": "World War 2"
+        },
+        {
+            "fact": "Forgetting is good for the brain: deleting unnecessary information helps the nervous system retain its plasticity.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "In Brazil alone, around 150 languages are spoken. However the most widely spoken are Portuguese and Spanish.",
+            "category": "Continents"
+        },
+        {
+            "fact": "Over a third of the World's pineapples come from Hawaii.",
+            "category": "Food"
+        },
+        {
+            "fact": "A crocodile can not move it's tongue.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The croissant was invented in Austria.",
+            "category": "Food"
+        },
+        {
+            "fact": "A cat's urine glows under a backlight.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Around 80% of the world's matter is missing in the form of dark matter and dark energy.",
+            "category": "Universe"
+        },
+        {
+            "fact": "The American secret service tried to spike Hitler's food with female hormones to feminize him.",
+            "category": "World War II"
+        },
+        {
+            "fact": "The Xoloitzcuintli is the national dog of Mexico.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Originally, two teams of 9 players made up a basket ball game, a number that was based on the standard number of players on a baseball team.",
+            "category": "Sports"
+        },
+        {
+            "fact": "Venetian blinds were invented in Japan.",
+            "category": "Continents"
+        },
+        {
+            "fact": "The first car accident occurred in 1771, in France.",
+            "category": "Cars"
+        },
+        {
+            "fact": "About 1 million dogs are the primary beneficiaries in their owners' wills in the U.S.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Fishing is the biggest sport in the world.",
+            "category": "Sports"
+        },
+        {
+            "fact": "A newborn Kangaroo is about 1 inch in tall.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The brain produces half cup of fluid every day.",
+            "category": "Brain"
+        },
+        {
+            "fact": "Babies prefer black and white, high-contrast images to colored, graphic ones.",
+            "category": "Babies"
+        },
+        {
+            "fact": "The Nazis tried to teac their dogs to talk and read.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Giraffes can last longer without water than camels.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Large dogs are generally faster and die younger.",
+            "category": "Animals"
+        },
+        {
+            "fact": "Pandas spend 12 hours a day eating bamboo. ",
+            "category": "Animals"
+        },
+        {
+            "fact": "The world's smallest car is called 'Tinker Toy' and it is just 2.75 inches tall.",
+            "category": "Cars"
+        },
+        {
+            "fact": "Coffee trees produce its first full crop after 5 years old.",
+            "category": "Food"
+        },
+        {
+            "fact": "There is no proof as to who built the Taj Mahal.",
+            "category": " History"
+        },
+        {
+            "fact": "The U.S by far has the world's largest gold reserves.",
+            "category": "Earth"
+        },
+        {
+            "fact": "The Olympus Mons on Mars is almost three times the height of Mt. Everest, which is 25km tall. It is 624 km at it's base.",
+            "category": "Universe"
+        },
+        {
+            "fact": "Grapes explode when you put them in a microwave.",
+            "category": "Food"
+        },
+        {
+            "fact": "Your brain activity is as uniques as your fingerprint.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "You use about 100 different muscles while speaking.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "The last Olympic gold medal that was actually made from gold was awarded in 1912. Gold and Silver medals are 92.5% silver.",
+            "category": "Sports"
+        },
+        {
+            "fact": "A fingerprint is to a human as a nose is to a cat. ",
+            "category": "Animals"
+        },
+        {
+            "fact": "Adult brains still make new neurons.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "Breast feeding a baby may reduce a woman's risk of developing Alzheimer's disease. ",
+            "category": "Human Body"
+        },
+        {
+            "fact": "A newborn quickly grows to love the mother's natural scent.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "The pathologist who made Einstein body's autopsy stole his brain and kept it in a jar for 20 years.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "Sean Swarner was the first cancer survivor to complete the 7 summits, the highest peaks of the 7 continents.",
+            "category": "Inspirational people"
+        },
+        {
+            "fact": "The basic purpose of memory - human or machine is to keep a record of information for a period of time.",
+            "category": "Brain"
+        },
+        {
+            "fact": "More counties are now democratic than at any point since WW2",
+            "category": "World War 2"
+        },
+        {
+            "fact": "There are over 900,000 known species of insects.",
+            "category": "Insects"
+        },
+        {
+            "fact": "The brain of two musicians can synchronize when performing together.",
+            "category": "Brain Music"
+        },
+        {
+            "fact": "At birth, dalmations are always white.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The measle's virus erases the immune system's memory, leaving the patients vulnerable to other infectious diseases. ",
+            "category": "Health"
+        },
+        {
+            "fact": "In 1975, a physicist made his cat a co-author of his research paper to avoid replacing 'we' with 'I' throughout his paper.",
+            "category": "Cats & Dogs"
+        },
+        {
+            "fact": "Studies have shown that what a woman eats during her pregnancy is easily detectable in her amniotic fluids, and the baby develops a taste for similar flavors.",
+            "category": "Babies"
+        },
+        {
+            "fact": "The most common mental illnesses are anxiety and depression.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "The first and the last British soldiers to die in the WW1 are, by coincidence, buried 15 feet away from each other. ",
+            "category": "WW11"
+        },
+        {
+            "fact": "All hurricanes form over the sea and can last up to 10 days.",
+            "category": "Time"
+        },
+        {
+            "fact": "Astronauts can grow up to two inches taller in space.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "Sweden's official Twitter account had been managed by random citizens for 7 years until 2018.",
+            "category": "Random fact"
+        },
+        {
+            "fact": "Raindrops are not tear-shaped. They more resemble the shape of a tiny hamburger bun.",
+            "category": "Nature"
+        },
+        {
+            "fact": "It takes  5 yuears for an oyster to produce a medium-sized pearl. ",
+            "category": "Nature"
+        },
+        {
+            "fact": "Dinosaurs walked the earth for over 165 million years.",
+            "category": "Animals"
+        },
+        {
+            "fact": "The first coast-to-coast telephone line was established in 1914.",
+            "category": "Science"
+        },
+        {
+            "fact": "The smallest country in South America is called Suriname. It is about 50 times smaller than  Brazil.",
+            "category": "Continents"
+        },
+        {
+            "fact": "By 1820 , when he was almost totally deaf, Beethoven composed his greatest works.",
+            "category": "Inspirational people"
+        },
+        {
+            "fact": "Almonds are actually a seed, not a nut as we know it.",
+            "category": "Food"
+        },
+        {
+            "fact": "Owning a cat can reduce the risk of heart attacks and strokes by nearly a third, researchers found.",
+            "category": "Cats & Dogs"
+        },
+        {
+            "fact": "After you have eeaten, it takes approximately 12 hours for food to entirely digest. ",
+            "category": "Food"
+        },
+        {
+            "fact": "Abraham Licoln loved cats and once let one eat from the table during a formal White House Dinner.",
+            "category": "Cats & Dogs"
+        },
+        {
+            "fact": "Half of your genes describe the complex design of your brain, with the other half describing the organization of the other 98% of your body.",
+            "category": "Brain"
+        },
+        {
+            "fact": "The brain treats rejection as like physical pain, according to scientists.",
+            "category": "Brain"
+        },
+        {
+            "fact": "Stomach acid is so strong that it can dissolve a metal.",
+            "category": "Health"
+        },
+        {
+            "fact": "Your foot has 26 bones in it.",
+            "category": "Human Body"
+        },
+        {
+            "fact": "Porcupines float in water.",
+            "category": "Science"
+        },
+        {
+            "fact": "The tallest mamma is the giraffe. ",
+            "category": "Animals"
+        },
+        {
+            "fact": "Owl's can not move their eye balls. In fact, they do not have eye balls at all. ",
+            "category": "Nature"
+        },
+        {
+            "fact": "Feeling down? Plan a vacation. Not only will getting away make you feel better, but planning and anticipating the vacation will also give you a happiness boost. ",
+            "category": "Health"
+        },
+        {
+            "fact": "Healthy nails grow about 2cm each year. Fingernails grow four times as fast as the toe nails.",
+            "category": "Science"
+        },
+        {
+            "fact": "Bananas grow pointing upwards. ",
+            "category": "Food"
+        }
+    ]
