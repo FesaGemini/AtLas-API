@@ -1,9 +1,11 @@
 const express = require("express");
 const app = express();
 const morgan = require('morgan');
+const errHandler = require("./middleware/errorHandler");
 
 app.use(express.json());
 app.set('json spaces', 2)
+app.use(errHandler)
 
 require('./routes/index.js')(app)
 
