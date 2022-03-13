@@ -24,7 +24,7 @@ app.use((err, req, res, next) => {
 });
 
 app.set('json spaces', 2);
-app.use(require("./router"))
+app.use(require("./routes/index.js"))
 app.use(morgan('dev'))
 
 app.listen(3000, async () => {
