@@ -20,5 +20,6 @@ function generateMock(txt) {
 
 		makeUpper = !makeUpper;
 	}
+	
 	return chars.join('');
 }
