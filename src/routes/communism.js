@@ -1,4 +1,4 @@
-const communistController = require("../controller/communistController")
+const communistController = require("../controller/communismController")
 
 module.exports = { 
 	route: "/communism",
