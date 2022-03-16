@@ -23,6 +23,7 @@
   },
   "_moduleAliases": {
         "@root": "./",
+        "@app": "./src/app.js",
         "@images": "./src/images/"
     }
 }
